@@ -1,0 +1,2 @@
+# egitim
+udemy egitim
